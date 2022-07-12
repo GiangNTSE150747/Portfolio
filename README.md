@@ -22,6 +22,13 @@
 **Back-end**
 
 <code><img height="30" src="/images/java.png"></code>
+<code><img height="30" src="/images/CSharp.png"></code>
+
+**Front-end**
+
+<code><img height="30" src="/images/Html.png"></code>
+<code><img height="30" src="/images/Css.png"></code>
+<code><img height="30" src="/images/Js.png"></code>
 
 # 🔭Actions
   <div align="center" style="width: 50%;">
