@@ -10,7 +10,7 @@
   <br />
 </div>
 
-# :phone: Contact infor
+# :phone: Contact information
 
 :iphone: +84 977264752 <br>
 :house: Di An, Binh Duong <br>
@@ -21,14 +21,28 @@
 
 **Back-end**
 
-<code><img height="30" src="/images/java.png"></code>
-<code><img height="30" src="/images/CSharp.png"></code>
+<code><img height="30" src="/images/Java.png"></code>
+<code><img height="30" src="/images/CSharp.jpg"></code>
 
 **Front-end**
 
-<code><img height="30" src="/images/Html.png"></code>
-<code><img height="30" src="/images/Css.png"></code>
-<code><img height="30" src="/images/Js.png"></code>
+<code><img height="30" src="/images/Html.jpg"></code>
+<code><img height="30" src="/images/Css.jpg"></code>
+<code><img height="30" src="/images/JS.png"></code>
+
+**Database**
+
+<code><img height="30" src="/images/mssql.png"></code>
+<code><img height="30" src="/images/mysql.png"></code>
+
+**Framework**
+
+<code><img height="30" src="/images/BS.png"></code>
+<code><img height="30" src="/images/Spring.png"></code>
+<code><img height="30" src="/images/hibernate.jpg"></code>
+
+# Education
+
 
 # 🔭Actions
   <div align="center" style="width: 50%;">
